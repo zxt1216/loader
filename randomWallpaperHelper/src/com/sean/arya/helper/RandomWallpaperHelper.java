@@ -8,6 +8,7 @@ import java.util.Random;
  * 辅助修改名称,实现切换桌面时更换壁纸。
  * @author Sean
  * @since  2017-06-30
+ * @version 1.0.0
  */
 public class RandomWallpaperHelper {
 
